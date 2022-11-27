@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**andreyZozulych/andreyzozulych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an iOS Developer with 2+ years of experience.
+I do app development in Apple-style to provide the best UI/UX for users
 
-Here are some ideas to get you started:
+## About what's I'm proud of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🇺🇦 At 2019, I founded the moving company Gruzchik which provided service in 6 regions of Ukraine. Closed in 2020.
+ - 📝 My app about finances won at regional stage among the scientific works of schoolchildren of Ukraine.
+ - 💻 I developed & designed fitness app which is already in App Store - [FitBody: HIIT Workout Fitness](https://apps.apple.com/us/app/fitbody-home-workouts/id1638726940)
+ - 🔜 More projects will come soon...
+
+## Talking with me
+
+- 🐦 My twitter: [@zozulychNdrey](https://twitter.com/zozulychNdrey)
+- 🐘 My telegram: <a rel="me" href="https://t.me/@andrii_zozulych">＠andrii_zozulych</a>
+- ⚡️ My website: <a rel="me" href="https://itandbussines.wixsite.com/andriizozulych-dev">*click*</a>
+- 💬 Pronouns: He/Him
+
+---
